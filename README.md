@@ -1,5 +1,5 @@
 # ase_dcdftbmd
-ASE Calculator for DC-DFTB-MD
+ASE Calculator for DC-DFTB-MD (http://www.chem.waseda.ac.jp/dcdftbmd/index.html)
 
 Example:
 ```python
